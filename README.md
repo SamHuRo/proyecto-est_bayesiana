@@ -11,7 +11,6 @@ proyecto-estadistica-bayesiana/
 ├── scripts/              # Scripts auxiliares y de preprocesamiento
 ├── output/               # Resultados generados, gráficos y tablas
 ├── docs/                 # Documentación adicional
-├── DESCRIPTION           # Metadatos del proyecto y dependencias
 └── README.md             # Este archivo
 ```
 
